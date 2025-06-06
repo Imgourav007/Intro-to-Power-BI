@@ -11,3 +11,13 @@ The dashboard was built using Power BI by cleaning and transforming raw survey d
 * Work-life balance and salary satisfaction metrics.  
 * This dashboard allows HR teams, managers, and analysts to explore patterns in the data with interactive filtering and KPIs.  
 
+## Tools Used
+* Power BI (Power Query, DAX, Visualizations).
+* Excel (Data validation and preliminary analysis).
+
+## Results
+* Visualized global distribution of data professionals to identify geographic concentration.
+* Analyzed salary variations across job titles and gender to inform compensation equity.
+* Highlighted trending programming languages for talent development and recruitment focus.
+* Presented work-life balance and salary satisfaction insights to support employee engagement initiatives.
+* Enabled interactive exploration of survey data through dynamic filtering and KPIs, empowering stakeholders to make informed workforce decisions.
