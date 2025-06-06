@@ -1,4 +1,4 @@
-# Intro-to-Power-BI
+# Global Data Professionals Survey Dashboard
 
 ## Problem Statement
 Data professionals span a wide range of roles, locations, and experiences. To better understand their demographics, job satisfaction, and preferences, a global survey was conducted. The goal was to analyze this data and uncover patterns that can inform hiring strategies, compensation planning, and community engagement.
